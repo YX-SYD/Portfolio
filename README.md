@@ -7,7 +7,8 @@ Tools used: Python, Pandas, Numpy, Sklearn, Matplotlib
 - [Finding Donors for CharityML](https://github.com/YX-SYD/Machine_Learning/blob/master/Finding_Donors/finding_donors.ipynb):
 In this project, several supervised algorithms were employed to model individuals' income using data collected from the 1994 U.S. Census. The best candidate algorithm from preliminary results was optimized to best model the data. The goal with this implementation is to construct a model that accurately predicts whether an individual makes more than $50,000.
 #### Deep Learning
-- [Immage classification](https://github.com/YX-SYD/Machine_Learning/blob/master/CNN-Classification.ipynb): using CNN model to conduct multiple label immage classification
+- [Immage classification](https://github.com/YX-SYD/Machine_Learning/blob/master/CNN-Classification.ipynb): 
+In this project, I use Keras to build a CNN model, which is employed to conduct multiple label immage classification
 
 ## Data Wrangling and EDA:
 1. [Data Analysis of the “War of the Five Kings- Game of Thrones”](https://github.com/YX-SYD/Data-Wrangling-Visulization/blob/master/war-of-five-kings/Game_of_thrones_battle_analysis.ipynb) 
