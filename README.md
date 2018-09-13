@@ -4,22 +4,23 @@ Tools used: Python, Pandas, Numpy, Sklearn, Matplotlib
 
 ## Machine Learning
 #### Supervised Learning
-- 
+- [Finding Donors for CharityML](https://github.com/YX-SYD/Machine_Learning/blob/master/Finding_Donors/finding_donors.ipynb):
+In this project, several supervised algorithms were employed to model individuals' income using data collected from the 1994 U.S. Census. The best candidate algorithm from preliminary results was optimized to best model the data. The goal with this implementation is to construct a model that accurately predicts whether an individual makes more than $50,000.
 #### Deep Learning
 - [Immage classification](https://github.com/YX-SYD/Machine_Learning/blob/master/CNN-Classification.ipynb): using CNN model to conduct multiple label immage classification
 
 ## Data Wrangling and EDA:
 1. [Data Analysis of the “War of the Five Kings”](https://github.com/YX-SYD/Data-Wrangling-Visulization/blob/master/war-of-five-kings/Game_of_thrones_battle_analysis.ipynb) - Game of Thrones.  
-Through extensive EDA, following questions are answered:  
-- Which year has the most battles?
-- Which region sees the largest number of battles?
-- Which king attacks most? Which king wins the most battles as an attacker?
-- Which battle type is more common?What battle styles are used by each attacker king.
-- The impact of army size.
-- The impact of season.
-- How many commanders are owned by each attacker king?
-- Which commander leads most battles as an attacker commander?Who are the commanders with the most victories of each attacker king?
-Does the major house fight alone or with allies in attacker side?
+Through extensive EDA, following questions are answered:   
+  - Which year has the most battles?
+  - Which region sees the largest number of battles?
+  - Which king attacks most? Which king wins the most battles as an attacker?
+  - Which battle type is more common?What battle styles are used by each attacker king.
+  - The impact of army size.
+  - The impact of season.
+  - How many commanders are owned by each attacker king?
+  - Which commander leads most battles as an attacker commander?Who are the commanders with the most victories of each attacker king?
+  Does the major house fight alone or with allies in attacker side?
 
 ## Statistical Analysis
 1. [Mobile Games A/B Testing with Cookie Cats](https://github.com/YX-SYD/DataCamp-Mini-projects/blob/master/Mobile%20Games%20AB%20Testing%20with%20Cookie%20Cats.ipynb)  
