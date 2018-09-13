@@ -6,7 +6,7 @@ Tools used: Python, Pandas, Numpy, Sklearn, Matplotlib
 #### Supervised Learning
 - 
 #### Deep Learning
-- Immage classification: using CNN model to conduct multiple label classification
+- [Immage classification](https://github.com/YX-SYD/Machine_Learning/blob/master/CNN-Classification.ipynb): using CNN model to conduct multiple label immage classification
 
 ## Data Wrangling and EDA:
 1. [Data Analysis of the “War of the Five Kings”](https://github.com/YX-SYD/Data-Wrangling-Visulization/blob/master/war-of-five-kings/Game_of_thrones_battle_analysis.ipynb) - Game of Thrones.  
