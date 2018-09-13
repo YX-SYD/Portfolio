@@ -10,8 +10,8 @@ In this project, several supervised algorithms were employed to model individual
 - [Immage classification](https://github.com/YX-SYD/Machine_Learning/blob/master/CNN-Classification.ipynb): using CNN model to conduct multiple label immage classification
 
 ## Data Wrangling and EDA:
-1. [Data Analysis of the “War of the Five Kings”](https://github.com/YX-SYD/Data-Wrangling-Visulization/blob/master/war-of-five-kings/Game_of_thrones_battle_analysis.ipynb) - Game of Thrones.  
-Through extensive EDA, following questions are answered:   
+1. [Data Analysis of the “War of the Five Kings- Game of Thrones”](https://github.com/YX-SYD/Data-Wrangling-Visulization/blob/master/war-of-five-kings/Game_of_thrones_battle_analysis.ipynb) 
+Through extensive EDA, I proposed and answered the following questions:   
   - Which year has the most battles?
   - Which region sees the largest number of battles?
   - Which king attacks most? Which king wins the most battles as an attacker?
