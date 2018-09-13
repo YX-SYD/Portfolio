@@ -1,5 +1,5 @@
 ## Xun's Data Scientist Portfolio
-This repository containing portfolio of data science projects completed by me for self learning and hobby purposes. Presented in the form of iPython Notebooks.  
+This repository contains portfolio of data science projects completed by me for self learning and hobby purposes. Presented in the form of iPython Notebooks.  
 Tools used: Python, Pandas, Numpy, Sklearn, Matplotlib  
 
 ## Machine Learning
