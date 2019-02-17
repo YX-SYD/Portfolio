@@ -7,8 +7,8 @@ Tools used: Python, Pandas, Numpy, Sklearn, Matplotlib
 - [Finding Donors for CharityML](https://github.com/YX-SYD/Machine_Learning/blob/master/Finding_Donors/finding_donors.ipynb):  
 In this project, several supervised algorithms were employed to model individuals' income using data collected from the 1994 U.S. Census. The best candidate algorithm from preliminary results was optimized to best model the data. The goal with this implementation is to construct a model that accurately predicts whether an individual makes more than $50,000.
 #### Deep Learning
-- [Immage classification](https://github.com/YX-SYD/Machine_Learning/blob/master/CNN-Classification.ipynb):   
-In this project, I use Keras to build a CNN model, which is employed to conduct multiple label immage classification
+- [Immage classification](https://github.com/YX-SYD/Machine_Learning/blob/master/Image%20Classifier%20Project.ipynb):   
+In this project, I use Pytorch to build a deep learning model, which is employed to conduct multiple label immage classification
 #### Unsupervised Learning  
 - [Identify Customer Segments](https://github.com/YX-SYD/Machine_Learning/blob/master/Identify_Customer_Segments.ipynb)  
 In this project, I will apply unsupervised learning techniques to identify segments of the population that form the core customer base for a mail-order sales company in Germany. These segments can then be used to direct marketing campaigns towards audiences that will have the highest expected rate of returns.
